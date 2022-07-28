@@ -1,0 +1,18 @@
+.side-container {
+    display: flex;
+    flex-direction: column;
+    gap: 140px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.right img {
+    width: 560px;
+    height: 315px;
+}
+
+.side {
+    display: flex;
+    flex-direction: row;
+    gap: 140px;
+}
